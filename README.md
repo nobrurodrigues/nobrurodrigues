@@ -1,4 +1,4 @@
-### Olá! Sou o Bruno Rodrigues 👋 🇧🇷
+### Olá! Sou o Bruno Rodrigues 👋
 
 - 👨‍💻 Atualmente trabalho como Desenvolvedor FullStack utilizando Java ,Angular 7+;
 - 🎓 Sistemas de Informação;
