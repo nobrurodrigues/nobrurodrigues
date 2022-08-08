@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente trabalho como Desenvolvedor FullStack utilizando Java ,Angular 7+;
 - 🎓 Sistemas de Informação;
-- 📚 Estudando Typescript, Reactjs e DevOps;
+- 📚 Estudando Spring Boot, Spring Security, Spring Cloud, Angular e DevOps;
 - 📫 Contato : brunodev94@gmail.com 
 
 ##
